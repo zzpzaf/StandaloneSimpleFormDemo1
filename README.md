@@ -1,4 +1,14 @@
-# Dynform2
+# StandaloneSimpleFormDemo1
+
+## A template demo repo with standalone components and a simple reactive form.
+
+Angular 17.2.1 standalone (no SSR)
+Material, Router, Reactive form
+
+(c) Panos Zafeiropoulos 2024
+
+---
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
